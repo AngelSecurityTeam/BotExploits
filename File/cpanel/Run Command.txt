@@ -1,0 +1,1 @@
+bruter.py 50 domins.txt password.txt

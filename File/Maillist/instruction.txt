@@ -1,0 +1,5 @@
+I. install python 2.7.14 from google
+II. add python to the path 
+III. open cmd & type 
+cd C:\Python27\Scripts
+pip install colorama
